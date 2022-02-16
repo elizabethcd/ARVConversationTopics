@@ -1,9 +1,0 @@
-﻿{
-  "Name": "ARV Conversation Topics",
-  "Author": "violetlizabet",
-  "Version": "1.0.0",
-  "Description": "Adds conversation topics for ARV.",
-  "UniqueID": "violetlizabet.ARVConvoTopics",
-  "EntryDll": "ARVConversationTopics.dll",
-  "UpdateKeys": [ ]
-}
